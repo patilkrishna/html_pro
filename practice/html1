@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+<title> Working <\title>
+<h1> This is my first web page </h1>
+<h2> Learning html is a fun </h2>
+<h3> Im currently working </h3>
+<h1><br> success mantra </h1> 
+<p> I will hane a great aim</p>
+<pre> I will continuously aquire knowldge
+       I work hard for my dreams 
+       and I will become suceed in my life</pre>
+<h6>**this is end now**</h6>
+<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+<marquee> ye learn !! </marquee>
+</body>
+</html>
