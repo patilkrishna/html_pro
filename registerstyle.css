@@ -1,0 +1,49 @@
+body{
+    margin:0;
+    padding:0;
+    background:url(Travel1.jpg);
+    background-size:cover;
+    background-position:top;
+    font-family:sans-serif;
+
+}
+.Register-form{
+    width:480px;
+    height:460px;
+    background:rgba(0,0,0,0.6);
+    color:#ffffff;
+    top:0%;
+    left:60%;
+    position:absolute;
+    transform:translate(-80%,20%);
+    padding: 0;
+    
+}
+h3{
+    margin:0;
+    padding:10px 0 20px;
+    text-align:center;
+    font-size:22px;
+    
+
+}
+
+
+
+.sub{
+    width:100%;
+    padding:0;
+    transform:translate(40%,0%);
+}
+.gen{
+    width:100%;
+    padding:20px;
+     transform:translate(10%,200%);
+}
+
+.Register-form input{
+    width: 100%;
+    margin-bottom: 10px;
+    align:center;
+    position:static;
+}
